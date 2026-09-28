@@ -99,4 +99,3 @@ src/
 ```
 
 - [`docs/api-contract.md`](docs/api-contract.md): the HTTP contract the backend must follow.
-- [`docs/backend-prompt.md`](docs/backend-prompt.md): a ready-to-use brief for building the backend.
