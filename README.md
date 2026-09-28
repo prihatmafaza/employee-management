@@ -88,7 +88,7 @@ the total.
 | Code quality    | ESLint 10 (typescript-eslint, react-hooks), strict `tsc` type-check on build |
 | HTTP            | `fetch`, wrapped in a typed `Api` interface (`src/api/`) |
 
-### Backend ([`../employee-management-backend`](../employee-management-backend))
+### Backend
 
 | Area            | Choice |
 | --------------- | ------ |
